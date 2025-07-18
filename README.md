@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I’m Sehar Waseem
 
-<!--
-**seharwaseem-tech/seharwaseem-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering student (currently completed 2nd semester) from Pakistan.  
+I’m currently learning Generative AI online and enrolled in Advanced Python classes.  
+My goal is to become a skilled and independent Software Engineer In Sha Allah.  
+Right now, I’m focusing on learning, improving skills, and exploring new tech fields.  
+I will soon start building apps and mini projects in Generative AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Current Learning
+
+- Generative AI (online course)  
+- Advanced Python (physical classes)  
+- Core software engineering skills
+
+---
+
+## 🎯 Goals
+
+- Build strong logic & problem-solving skills  
+- Start Generative AI projects soon  
+- Create my LinkedIn and developer portfolio  
+- Grow as a confident and skilled developer
+
+---
+
+## 🌟 A Little About Me
+
+I believe in learning step by step, building daily progress, and never giving up.  
+This is just the beginning of my developer journey. Stay connected to see what’s next.
+
+> #CodeWithSehar | #LearningToBuild | #FutureDevInProgress
